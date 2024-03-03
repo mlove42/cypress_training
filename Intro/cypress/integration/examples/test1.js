@@ -18,7 +18,7 @@ describe("My First Test Suite", () => {
     //     //test step
     // });
 });
-lat one for the house
+// lat one for the house
 // describe("my first test"),
 //     () => {
 //         it("Does not do much!", () => {
