@@ -8,11 +8,11 @@
 //         // visit allows us to visit any website
 //         cy.visit("https://rahulshettyacademy.com/seleniumPractise/#/");
 //     });
-// it("My Second case", () => {
-//     //test step
-// });
-// });
-// lat one for the house
+it("My Second case", () => {
+    //test step
+});
+});
+lat one for the house
 describe("my first test"),
     () => {
         it("Does not do much!", () => {
